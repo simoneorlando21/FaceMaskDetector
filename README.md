@@ -10,4 +10,4 @@ Face mask detection system through convolutional neural network.
 2. Run the "create_CNN.ipynb", it creates model.json and model.h5
 3. Run "detector.py"
 ## Demo
-![alt-text](link)
+![alt-text](https://github.com/simoneorlando21/FaceMaskDetector/blob/main/demo.gif)
